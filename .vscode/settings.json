@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "time.h": "c",
+        "number_baseball.h": "c"
+    }
+}
